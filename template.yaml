@@ -9,6 +9,8 @@ Description: >
 Globals:
   Function:
     Timeout: 3
+  Api:
+    BinaryMediaTypes: ["*~1*"]
 
 Resources:
   HelloWorldFunction:
